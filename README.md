@@ -31,4 +31,4 @@ We are actively engineering a tracking-free, privacy-hardened alternative to for
 
 ---
 
-🌐 **Corporate Portal:** [algo2world.com](https://algo2world.com)
+🌐 **Corporate Portal:** [A2W](https://algo2world.com)
