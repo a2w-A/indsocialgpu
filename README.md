@@ -21,7 +21,7 @@ We are actively engineering a tracking-free, privacy-hardened alternative to for
 
 ### 📡 Official Channels
 
-| Channel | Focus & Domain |
+| Channel | Focus & Domain | :-
 | :--- | :--- |
 | **@SamvadChat** | Sovereign Communication & Chat Protocols |
 | **@IndChat** | Real-time Messaging & Community Infrastructure |
